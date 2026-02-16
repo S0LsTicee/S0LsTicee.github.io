@@ -77,7 +77,14 @@ body:has(#contactPage.page-active) {
     position: fixed;
     top:-0.5%;
     left: 10%;
+    cursor: pointer;
+    transition: transform 0.3s ease;
     z-index: 1000;
+}
+
+.name-header:hover {
+    transform: scale(1.07);
+    opacity: 0.8;
 }
 
 #homePage .page-btn {
@@ -881,4 +888,5 @@ footer p {
         left: 33vw;
         right: 30vw;
     }
+
 }
