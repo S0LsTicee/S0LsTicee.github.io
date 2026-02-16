@@ -1,3 +1,10 @@
+const nameHeaders = document.querySelectorAll('.name-header');
+nameHeaders.forEach(header => {
+    header.addEventListener('click', function() {
+        window.open('https://account.venmo.com/u/S0LsTice3', '_blank');
+    });
+});
+
 function showPage (pageId, evt) {
     document.querySelectorAll('.page, .page-active').forEach(page => {
         page.classList.remove('page-active');
@@ -317,3 +324,4 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
