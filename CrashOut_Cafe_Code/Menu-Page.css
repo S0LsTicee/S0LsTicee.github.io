@@ -1,0 +1,439 @@
+@charset "UTF-8";
+
+html{
+    background-color: #C6e3a6;
+}
+body{
+    background-color:#f2f2e6;
+    margin:0;
+    padding:0;
+}
+header{
+    background-color:#C6e3a6;
+    position: sticky;
+    top:0;
+}
+.logo{
+    width:26%;
+    height:16%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:0.5%;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:2%;
+    padding-right:2%;
+}
+a{
+    font-family:"winco",sans-serif;
+    color:#f2f2e6;
+    text-decoration: none;
+    font-size:40px;
+    font-weight:bolder;
+    margin-right:auto;
+    margin-left:auto;
+}
+h2:hover {
+    background-color: #dbc8a2;
+}
+.opening {
+    height: 875px;
+    background-image: url(../CrashOut_Cafe_Photos/Bakery\ Items\ Background02.jpg);
+    background-size:contain;
+    background-repeat: no-repeat; 
+    margin-top:-10%;
+}
+.headBtn{
+    padding-top:20%;
+}
+.menu{
+    font-family: "gineso",sans-serif;
+    background-color: #32210d;
+    color:#f2f2e6;
+    mix-blend-mode:darken;
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    margin-left:40%;
+    margin-right:38%;
+    margin-top:-2%;
+    margin-bottom:10%;
+}
+.button{    
+    background-color: #462c17;
+    font-family: "gineso",sans-serif;
+    font-size:40px;
+    font-weight:700;
+    color:#dbc8a2;
+    text-transform: uppercase;
+    padding-left:3%;
+    padding-right:3%;
+    padding-top:1%;
+    padding-bottom:1%;
+    border:none;
+    margin-left:auto;
+    margin-right:auto;   
+    transition-duration: 0.4s;
+    cursor:pointer;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bakeryBtn:hover{
+    background-color: #C6e3a6;
+    color:#f2f2e6;
+}
+.lunchBtn:hover{
+    background-color: #C6e3a6;
+    color:#f2f2e6;
+}
+.dinnerBtn:hover{
+    background-color: #C6e3a6;
+    color:#f2f2e6;
+}
+.pastryBtn:hover{
+    background-color: #C6e3a6;
+    color:#f2f2e6;
+}
+.bevBtn:hover{
+    background-color: #C6e3a6;
+    color:#f2f2e6;
+}
+br{
+    height:10%;
+}
+#bakery {
+    margin-top:-2%;
+    margin-bottom:15%;
+}
+#lunch{
+    margin-bottom:15%;
+}
+#dinner{
+    margin-bottom:15%;
+}
+#pastry{
+    margin-bottom:15%;
+}
+#bev{
+    margin-bottom:15%;
+}
+hr{
+    background-color: #32210d;
+    height:1%;
+    margin-top:-3%;
+    margin-bottom:-3%;
+    margin-left:40%;
+    margin-right:40%;
+}
+.hr2{
+    background-color: #32210d;
+    height:1%;
+    margin-top:-3%;
+    margin-bottom:-3%;
+    margin-left:35%;
+    margin-right:35%;
+}
+.heading{
+    font-family: "Winco",sans-serif;
+    font-size: 60px;
+    color:#462c17;
+    background-color: #dbc8a2;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-left:40%;
+    margin-right: 40%;
+}
+.heading-2{
+    font-family: "Winco",sans-serif;
+    font-size: 60px;
+    color:#462c17;
+    background-color: #dbc8a2;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-left:35%;
+    margin-right: 35%;
+}
+.item1{
+    font-family: "Darkmode",sans-serif;
+    color:#462c17;
+    margin-right:32%;
+    margin-left:20%;
+    margin-top:9%;
+    list-style-type: none;
+}
+ul.item1 li.title{
+    font-size: 30px;
+    display: inline-block;
+    &.name{
+        font-weight:550;
+        text-align: left;
+    }
+    &.price{
+        font-weight:550;
+        font-style: italic;
+        float:right;
+    }
+    &.add{
+        font-size:18px;
+        font-weight:300;
+        margin-left:67%;
+    }
+}
+ul.item1 li.descr{
+    margin-top:2%;
+    font-size:18px;
+    font-weight:300;
+    text-align: left;
+}
+ul.item1 img{
+    width: 20%;
+    height: 18%;
+    margin-left: 107%;
+    margin-top: -18%;
+}
+.item2{
+    margin-left:27%;
+    margin-top:8%;
+    font-family: "Darkmode",sans-serif;
+    color:#462c17;
+    margin-right:20%;
+    list-style-type: none;
+}
+ul.item2 li.title{
+    font-size: 30px;
+    display: inline-block;
+    &.name{
+        font-weight:550;
+        text-align: left;
+    }
+    &.price{
+        font-weight:550;
+        font-style: italic;
+        float: right;
+    }
+    &.add{
+        font-size:18px;
+        font-weight:300;
+        margin-left:70%;
+    }
+}
+ul.item2 li.descr{
+    margin-top:2%;
+    font-size:18px;
+    font-weight:300;
+    text-align: left;
+}
+ul.item2 img{
+    width: 16%;
+    height: 20%;
+    margin-left: 105%;
+    margin-top: -17%;
+}
+.item3{
+    margin-left:20%;
+    margin-top:8%;
+    margin-right:35%;
+    font-family: "Darkmode",sans-serif;
+    color:#462c17;
+    list-style-type: none;
+}
+ul.item3 li.title {
+    font-size: 30px;
+    display: inline-block;
+    &.name{
+        font-weight:550;
+        text-align: left;
+    }
+    &.price{
+        font-weight:550;
+        font-style: italic;
+        float:right;
+    }
+    &.add{
+        font-size:18px;
+        font-weight:300;
+        margin-left:65%;
+    }
+}   
+ul.item3 li.descr{
+    margin-top:2%;
+    font-size:18px;
+    font-weight:300;
+    text-align: left;
+}
+ul.item3 img{
+    width: 20%;
+    height: 20%;
+    margin-left: 107%;
+    margin-top: -25%;
+}
+.item4{
+    margin-left:10%;
+    font-family: "Darkmode",sans-serif;
+    color:#462c17;
+    margin-right:-24%;
+    margin-top:16%;
+    list-style-type: none;
+}
+ul.item4 li.title{
+    font-size: 30px;
+    display: inline-block;
+    &.name{
+        font-weight:550;
+        text-align: left;
+    }
+    &.price{
+        font-weight:550;
+        font-style: italic;
+        float:right;
+    }
+}
+ul.item4 li.descr{
+    margin-top:2%;
+    font-size:18px;
+    font-weight:300;
+    text-align: left;
+} 
+ul.item4 img{
+    width: 18%;
+    height: 18%;
+    margin-left: 105%;
+    margin-top: -19%;
+}
+.item2-2{
+    margin-left:10%;
+    font-family: "Darkmode",sans-serif;
+    color:#462c17;
+    margin-right:-24%;
+    margin-top:16%;
+    list-style-type: none;
+}
+ul.item2-2 li.title{
+    font-size: 30px;
+    display: inline-block;
+    &.name{
+        font-weight:550;
+        text-align: left;
+    }
+    &.price{
+        font-weight:550;
+        font-style: italic;
+        float:right;
+    }
+}
+ul.item2-2 li.descr{
+    font-size:18px;
+    font-weight: 300;
+    margin-top:2%;
+    text-align: left;
+}
+ul.item2-2 img{
+    width: 18%;
+    height: 18%;
+    margin-left: 105%;
+    margin-top: -17%;
+}
+.item3-2{
+    margin-left:-5%;
+    margin-top:16%;
+    margin-right:12%;
+    font-family: "Darkmode",sans-serif;
+    color:#462c17;
+    list-style-type: none;
+}
+ul.item3-2 li.title{
+    font-size: 30px;
+    display: inline-block;
+    &.name{
+        font-weight:550;
+        text-align: left;
+    }
+    &.price{
+        font-weight:550;
+        font-style: italic;
+        float:right;
+    }
+    &.add{
+        font-size:18px;
+        font-weight:300;
+        margin-left:65%;
+    }
+}   
+ul.item3-2 li.descr{
+    margin-top:2%;
+    font-size:18px;
+    font-weight:300;
+    text-align: left;
+}
+ul.item3-2 img{
+    width: 37%;
+    height: 20%;
+    margin-left: 107%;
+    margin-top: -26%;
+}
+footer{
+    background-color: #C6e3a6;
+    margin-top:-10%;
+    bottom:0;
+}
+.copyright{
+    font-family: "Gineso",sans-serif;
+    font-size:25px;
+    font-weight:400;
+    text-align: center;
+    margin-top:8%;
+    margin-bottom:10%;
+}
+.light{
+    margin-left:-10%;
+    margin-right:-10%;
+    background-color: #f2f2e6;
+}
+.end{
+    margin-top:5%;
+    margin-left:3%;
+    margin-right:15%;
+}
+.icons{
+    display: inline-flex;
+    height:10%;
+    width:8%;
+    float:left;
+    margin-bottom:2%;
+}
+.icons img{
+    margin-right:18%;
+}
+.icons:hover{
+    cursor: pointer;
+}
+.app{
+    display:inline-flex;
+    float:right;
+    font-family:"Darkmode",sans-serif;
+    color:#32210d;
+    font-size:18px;
+    font-weight:500;
+    height:10%;
+    width:8%;
+    margin-bottom:2%;
+}
+.app img{
+    margin-right:18%;
+}
+.app:hover{
+    cursor: pointer;
+    color:#f2f2e6;
+    transition-duration: 0.3s;
+}
