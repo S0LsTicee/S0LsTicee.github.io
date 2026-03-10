@@ -66,14 +66,14 @@ year2025: {
         id: 'adVideo',
         title: 'Wonderful Pistachio Adpocalyse Ad Video',
         description: 'School project made by Maximo, Melissa, Nicole, and Me in December, 2025.',
-        image:'/assets/Artworks/Wonderful_Pistachio_Ad_Thumbnail.png',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Wonderful_Pistachio_Ad_Thumbnail.png',
         detailedInfo: {
           title: 'Wonderful Pistachio Adpocalyse Ad Video -- December, 2025',
-          videoURL:'/assets/Artworks/Wonderful Pistachio Final Chen, Sally_v2.mp4',
+          videoURL:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Wonderful_Pistachio_Ad_Compressed.mp4',
           content: `
             <div class="video-container">
                 <video controls>
-                    <source src="/assets/Artworks/Wonderful Pistachio Final Chen, Sally_v2.mp4">
+                    <source src="https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Wonderful_Pistachio_Ad_Compressed.mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
@@ -93,13 +93,13 @@ year2025: {
       {
         id:'tradingApp',
         title:'GeekOut Collectables Mobile Trading App',
-        image:'/assets/Artworks/Mobile Trading App for Anime_Comic Merch_Phone Demo.png',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Mobile Trading App for Anime_Comic Merch_Phone Demo.png',
         description:'Ui/Ux design for an online selling platform catered to fans of pop culture franchises on Figma.',
         detailedInfo: {
             title:'GeekOut Mobile Online Trading App -- December, 2025',
             images: [
-            '/assets/Artworks/Mobile Trading App for Anime_Comic Merch.png',
-            '/assets/Artworks/Mobile Trading App for Anime_Comic Merch_Phone Demo.png'
+            'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Mobile Trading App for Anime_Comic Merch.png',
+            'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Mobile Trading App for Anime_Comic Merch_Phone Demo.png'
             ],
             content:`
             <div class="project-info">
@@ -116,7 +116,7 @@ year2025: {
       {
         id:'lampDesign',
         title:'Product Design: Pedant Lamp Mockup',
-        image:'/assets/Artworks/Pedant_Lamp_Model_Diagonal.png',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_Diagonal.png',
         description:'School project of a pedant lamp mockup made using paper and a 3D model of it made using AutoCad Fusion.',
         detailedInfo: {
             title:'Pedant Lamp Mockup -- November, 2025',
@@ -1245,6 +1245,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
 
 
 
