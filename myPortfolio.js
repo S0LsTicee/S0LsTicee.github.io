@@ -36,7 +36,7 @@ year2026: {
      {
         id:'PromoRedesign',
         title:'Forbes Life Watch Promo Editorial Redesign',
-        image:"https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/refs/heads/assets/Artworks/Watch_Promo_Redesign_Dark3.0.png",
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/refs/heads/assets/Artworks/Watch_Promo_Redesign_Dark3.0.png',
         description:'',
         detailedInfo: {
             title:'Forbes Life Watch Promo Editorial Redesign -- Feburary, 2026',
@@ -1245,6 +1245,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
 
 
 
