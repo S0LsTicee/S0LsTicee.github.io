@@ -121,12 +121,12 @@ year2025: {
         detailedInfo: {
             title:'Pedant Lamp Mockup -- November, 2025',
             images: [
-                '/assets/Artworks/Pedant_Lamp_Model_Diagonal.png',
-                '/assets/Artworks/Pedant_Lamp_Model_TopDiagonal.png',
-                '/assets/Artworks/Pedant_Lamp_Model_Side.png',
-                '/assets/Artworks/Pedant_Lamp_Model_Side2.png',
-                '/assets/Artworks/Pedant_Lamp_Model_TopDiagonal2.png',
-                '/assets/Artworks/Pedant_Lamp_Model_LowerDiagonal.png'
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_Diagonal.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_TopDiagonal.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_Side.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_Side2.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_TopDiagonal2.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pedant_Lamp_Model_LowerDiagonal.png'
             ],
             content:`
             <div class="project-info">
@@ -143,11 +143,11 @@ year2025: {
     {
         id:'graphicPoster',
         title:'Personal Project Graphic Presentation Poster',
-        image:'/assets/Artworks/IND2313_Final_Poster4.0.png',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IND2313_Final_Poster4.0.png',
         description:'Initially a presentation poster for a class finals, I replaced some elements to make it about my personal projects for the year.',
         detailedInfo: {
             title:'Personal Project Graphic Poster -- November, 2025',
-            image:'/assets/Artworks/IND2313_Final_Poster4.0.png',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IND2313_Final_Poster4.0.png',
             content: `
             <div class="project-info">
                 <p><strong>Project by me</strong></p>
@@ -163,13 +163,13 @@ year2025: {
     {
         id:'WhispAR',
         title:'WhispAR AR text interactive community wall',
-        image:'/assets/Artworks/Sample with text.png',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Sample with text.png',
         description:'Undergraduate research project where I partnered with two other zealous designers to make an interactive AR website that allows students to anonymously send and view messages from others displayed on the 3D modeled community wall, which appears after the student scan an anchor object using the website.',
         detailedInfo: {
             title:'WhispAR AR Web-Based Interactive Community Wall -- November, 2025',
             images: [
-                '/assets/Artworks/Final_Poster.png',
-                '/assets/Artworks/Sample with Text.png'
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Final_Poster.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Sample with Text.png'
             ],
             content: `
             <div class="project-info">
@@ -189,20 +189,20 @@ year2025: {
     {
         id:'NaturePhotos',
         title:'Nature Photography',
-        image:'/assets/Artworks/White_Pink_Flower.png',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/White_Pink_Flower.png',
         description:'Photographs taken at the Brooklyn Botanic Garden and Seaside Wildlife Park on Staten Island.',
         detailedInfo: {
             title:'Nature Photography on Flowers and Wildlife -- March-May, 2025',
             images: [
-                '/assets/Artworks/Orange_Flower.png',
-                '/assets/Artworks/White_Flower.png',
-                '/assets/Artworks/White_Pink_Flower.png',
-                '/assets/Artworks/Goose_Eating.jpg',
-                '/assets/Artworks/Goose_In_Water.jpg',
-                '/assets/Artworks/Slanted_Dock.jpg',
-                '/assets/Artworks/Sun-Bathing_Swans.jpg',
-                '/assets/Artworks/Thru_The_Window.jpg',
-                '/assets/Artworks/Two_Swans.jpg'
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Orange_Flower.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/White_Flower.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/White_Pink_Flower.png',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Goose_Eating.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Goose_In_Water.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Slanted_Dock.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Sun-Bathing_Swans.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Thru_The_Window.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Two_Swans.jpg'
             ],
             content: `
             <div class="project-info>
@@ -220,19 +220,19 @@ year2025: {
     {
         id:'StreetPhotos',
         title:'NYC Street Photography',
-        image:'/assets/Artworks/IMG_1105.jpg',
+        image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_1105.jpg',
         description:'Photographs of pedestrians on rainy days at the Washington Square Park and Times Square.',
         detailedInfo: {
             title:'NYC Street Photography on Rainy Days -- May, 2025',
             images: [
-                '/assets/Artworks/IMG_0936-2.jpg',
-                '/assets/Artworks/IMG_0966.jpg',
-                '/assets/Artworks/IMG_0986.jpg',
-                '/assets/Artworks/IMG_1070.jpg',
-                '/assets/Artworks/IMG_1096.jpg',
-                '/assets/Artworks/IMG_1105.jpg',
-                '/assets/Artworks/IMG_1107.jpg',
-                '/assets/Artworks/IMG_1119.jpg'
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_0936-2.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_0966.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_0986.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_1070.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_1096.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_1105.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_1107.jpg',
+                'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/IMG_1119.jpg'
             ],
             content: `
             <div class="project-info">
@@ -257,15 +257,15 @@ year2024: {
         {
             id:'PSAPosters',
             title:'PSA Posters On Global Warming & climate Change',
-            image:'/assets/Artworks/PSA Mockups.png',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/PSA Mockups.png',
             description:'Posters and infographic on the stastistics and effect of climate change.',
             detailedInfo: {
                 title:'Climate Change PSA Posters -- December, 2024',
                 images: [
-                    '/assets/Artworks/Global Warming Poster PSA conflict.png',
-                    '/assets/Artworks/Global Warming Poster PSA Insulin.png',
-                    '/assets/Artworks/Global Warming Poster PSA Ticking Bomb.png',
-                    '/assets/Artworks/PSA Mockups.png'
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Global Warming Poster PSA conflict.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Global Warming Poster PSA Insulin.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Global Warming Poster PSA Ticking Bomb.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/PSA Mockups.png'
                 ],
                 content: `
                 <div class="project-info">
@@ -282,18 +282,18 @@ year2024: {
         {
             id:'TradingAppAds',
             title:'GeekOut Mobile Trading App Social Media Promo & Ads',
-            image:'/assets/Artworks/Social Media Post Mockups 02.png',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Social Media Post Mockups 02.png',
             description:'Graphic design Instagram and Twitter posts to appeal to the young demographic and pastel colored billboards to match the casual and carefree vibe of the app and its alignment to a place to find "treasure" in an adventure.',
             detailedInfo: {
                 title:'GeekOut Mobile Trading App Social Media Posts & Billboard Ads -- October, 2024',
                 images: [
-                    '/assets/Artworks/Missing_Piece_Meme_Twitter_Ad_01.png',
-                    '/assets/Artworks/RPG_Shop_IG_Ad.png',
-                    '/assets/Artworks/Social Media Post Mockups 01.png',
-                    '/assets/Artworks/Social Media Post Mockups 02.png',
-                    '/assets/Artworks/Product_Ad_Billboard_1.png',
-                    '/assets/Artworks/Product_Ad_Billboard_2.png',
-                    '/assets/Artworks/Product_Ad_Billboard_3.png'
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Missing_Piece_Meme_Twitter_Ad_01.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/RPG_Shop_IG_Ad.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Social Media Post Mockups 01.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Social Media Post Mockups 02.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Product_Ad_Billboard_1.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Product_Ad_Billboard_2.png',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Product_Ad_Billboard_3.png'
                 ],
                 content: `
                 <div class="project-info">
@@ -310,13 +310,13 @@ year2024: {
         {
             id:'WebMenuDesign',
             title:'Cafe Menu Design & Web Design with HTML & CSS',
-            image:'/assets/Artworks/CrashOut_Cafe_Menu_Header.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/CrashOut_Cafe_Menu_Header.jpg',
             description:'Two styles of menus---minimalistic and modern, with one designed for print and one for web interface.',
             detailedInfo: {
                 title:'Cafe Menu Design for Print and for Web --- November, 2024',
                 images: [
-                    '/assets/Artworks/CrashOut_Cafe_Menu_Continuous.jpg',
-                    '/assets/Artworks/.'
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/CrashOut_Cafe_Menu_Continuous.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/.'
                 ],
                 content: `
                 <div class="project-info">
@@ -333,11 +333,11 @@ year2024: {
         {
             id:'PSProject',
             title:'Grasping Time',
-            image:'/assets/Artworks/PS_Grasping_Time.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/PS_Grasping_Time.jpg',
             description:'',
             detailedInfo: {
                 title:'Grasping Time -- October, 2024',
-                image:'/assets/Artworks/PS_Grasping_Time.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/PS_Grasping_Time.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Project by me </strong></p>
@@ -352,11 +352,11 @@ year2024: {
         {
             id:'NYCMural',
             title:'NYC Infrastructors & Federal Buildings Wall Mural Concept',
-            image:'/assets/Artworks/NYC_Mural_Art.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/NYC_Mural_Art.jpg',
             description:'Wall mural concept art that I helped with while interning at DCAS facilities management department.',
             detailedInfo: {
                 title:'NYC Infrastructure & Federal Buildings Wall Mural Concept Art at DCAS Facilities Management Department -- August, 2024',
-                image:'/assets/Artworks/NYC_Mural_Art.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/NYC_Mural_Art.jpg',
                 content: `
                 <div class="project-info">
                     <p><strong>Project by me</strong></p>
@@ -372,11 +372,11 @@ year2024: {
         {
             id:'CrocsDisplayDesign',
             title:'Saleem Bembury Crocs Ad Display Background',
-            image:'/assets/Artworks/Saleem_Bembury_Crocs.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Saleem_Bembury_Crocs.jpg',
             description:'',
             detailedInfo: {
                 title:'Saleem Bembury Crocs Ad Display Background -- May, 2024',
-                image:'/assets/Artworks/Saleem_Bembury_Crocs.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Saleem_Bembury_Crocs.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Project by me</strong></p>
@@ -392,11 +392,11 @@ year2024: {
         {
             id:'UnicornMixedMedia',
             title:'Evolution of an Unicorn',
-            image:'/assets/Artworks/Evolution_of_Unicorn.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Evolution_of_Unicorn.jpg',
             description:'Mixed media painting imagining the transformation process of an unicorn as it ages. It was created as a drawing final that requires the piece to be inspired by a work at the MET Cloisters; this piece was inspired by "The Hunt of the Unicorn".',
             detailedInfo: {
                 title:'Evolution of an Unicorn -- May, 2024',
-                image:'/assets/Artworks/Evolution_of_Unicorn.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Evolution_of_Unicorn.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Charcoal, Ink, and Gouache</p>
@@ -412,11 +412,11 @@ year2024: {
         {
             id:'MeltingMinds',
             title:'Melting Minds',
-            image:'/assets/Artworks/Melting_Minds.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Melting_Minds.jpg',
             description:'This piece is a product of a brainstorming exercise where we picked three verbs from a box and make a piece incorporating all three. I got the verbs melting, thinking, and squating.',
             detailedInfo: {
                 title:'Melting Minds -- April, 2024',
-                image:'/assets/Artworks/Melting_Minds.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Melting_Minds.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Gouache</p>
@@ -432,11 +432,11 @@ year2024: {
         {
             id:'BreakingThrough',
             title:'Escape Plan',
-            image:'/assets/Artworks/Breaking_Through.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Breaking_Through.jpg',
             description:'A reimagined piece based on "The Hunt of the Unicorn" exhibited at the MET Cloisters. The piece depicts the unicorn\\\'s strive to break out of the fence and avoid its demise.',
             detailedInfo: {
                 title:'Escape Plan -- April, 2024',
-                image:'/assets/Artworks/Breaking_Through.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Breaking_Through.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Gouache</p>
@@ -452,11 +452,11 @@ year2024: {
         /*{
             id:'CreativePortrait',
             title:'Mermaid Themed Portrait Painting Study',
-            image:'/assets/Artworks/Creative_Portrait.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Creative_Portrait.jpg',
             description:'',
             detailedInfo: {
                 title:'Mermaid Themed Portrait Painting Study -- April, 2024',
-                image:'/assets/Artworks/Creative_Portrait.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Creative_Portrait.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on canvas</p>
@@ -472,11 +472,11 @@ year2024: {
         {
             id:'NYCRat',
             title:'NYC Rat',
-            image:'/assets/Artworks/NYC_Rat.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/NYC_Rat.jpg',
             description:'Painting of the rat performer in NYC. The use of highly saturated bright colors complemented the absurd premise of the piece.',
             detailedInfo: {
                 title:'NYC Rat -- March, 2024',
-                image:'/assets/Artworks/NYC_Rat.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/NYC_Rat.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Mediium: </strong>Gouache</p>
@@ -492,11 +492,11 @@ year2024: {
         {
             id:'BubbleWrap',
             title:'Wrapped Memories',
-            image:'/assets/Artworks/Wrapped_Memories.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Wrapped_Memories.jpg',
             description:'The bubble wrap textured surface and the reduction of the character\\\'s eyes suggests something carefully kept by its owner, but still succumbed to decay over time.',
             detailedInfo: {
                 title:'Wrapped Memories -- March, 2024',
-                image:'/assets/Artworks/Wrapped_Memories.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Wrapped_Memories.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on Canvas</p>
@@ -518,11 +518,11 @@ year2023: {
     items: [
         /*{
             title:'Train Through the Wilderness',
-            image:'/assets/Artworks/Train_Thru_The_Wild.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Train_Thru_The_Wild.jpg',
             description:'',
             detailedInfo: {
                 title:'Train Through the Wilderness -- December, 2023',
-                image:'/assets/Artworks/Train_Thru_The_Wild.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Train_Thru_The_Wild.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on canvas</p>
@@ -537,11 +537,11 @@ year2023: {
         {
             id:'ReflectionPainting',
             title:'Reflection in the City Rain',
-            image:'/assets/Artworks/Reflection.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Reflection.jpg',
             description:'',
             detailedInfo: {
                 title:'Reflection in the City Rain -- December, 2023',
-                image:'/assets/Artworks/Reflection.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Reflection.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on canvas</p>
@@ -556,11 +556,11 @@ year2023: {
         {
             id:'PaintingPortrait',
             title:'Portrait Study of a Naked Woman',
-            image:'/assets/Artworks/Portrait_Study.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Portrait_Study.jpg',
             description:'',
             detailedInfo: {
                 title:'Portrait Study of a Naked Woman -- December, 2023',
-                image:'/assets/Artworks/Portrait_Study.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Portrait_Study.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on canvas</p>
@@ -575,11 +575,11 @@ year2023: {
         {
             id:'CafeSketch',
             title:'Cafe & Camera',
-            image:'/assets/Artworks/Cafe & Camera Still Life Sketch.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Cafe & Camera Still Life Sketch.jpg',
             description:'',
             detailedInfo: {
                 title:'Wrapped Memories -- December, 2023',
-                image:'/assets/Artworks/Cafe & Camera Still Life Sketch.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Cafe & Camera Still Life Sketch.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pencil on paper</p>
@@ -595,11 +595,11 @@ year2023: {
         {
             id:'AnotherDimension',
             title:'From Home to Home',
-            image:'/assets/Artworks/Inside Another Dimension.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Inside Another Dimension.jpg',
             description:'',
             detailedInfo: {
                 title:'From Home to Home -- December, 2023',
-                image:'/assets/Artworks/Inside Another Dimension.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Inside Another Dimension.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Colored charcoal & ink on paper</p>
@@ -615,11 +615,11 @@ year2023: {
         {
             id:'MechanicalHuman',
             title:'From Human 2 Machine',
-            image:'/assets/Artworks/From_Human_2_Machine.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/From_Human_2_Machine.jpg',
             description:'',
             detailedInfo: {
                 title:'From Human 2 Machine -- December, 2023',
-                image:'/assets/Artworks/From_Human_2_Machine.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/From_Human_2_Machine.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Colored charcoal on paper</p>
@@ -634,15 +634,15 @@ year2023: {
         {
             id:'ShoppingBag',
             title:'Recycled Shopping Bag',
-            image:'/assets/Artworks/Shopping_Bag_Front.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Shopping_Bag_Front.jpg',
             description:'',
             detailedInfo: {
                 title:'Recycled Shopping Bag -- December, 2023',
                 images: [
-                    '/assets/Artworks/Shopping_Bag_Front.jpg',
-                    '/assets/Artworks/Shopping_Bag_Zipped.jpg',
-                    '/assets/Artworks/Shopping_Bag_Back.jpg',
-                    '/assets/Artworks/Shopping_Bag_Side.jpg'
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Shopping_Bag_Front.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Shopping_Bag_Zipped.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Shopping_Bag_Back.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Shopping_Bag_Side.jpg'
                 ],
                 content:`
                 <div class="project-info">
@@ -658,11 +658,11 @@ year2023: {
         {
             id:'InkPortrait',
             title:'Ink & Charcoal Portrait Speed-Draw',
-            image:'/assets/Artworks/Ink Charcoal Portrait.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Ink Charcoal Portrait.jpg',
             description:'',
             detailedInfo: {
                 title:'Ink & Charcoal Portrait Speed-Draw -- November, 2023',
-                image:'/assets/Artworks/Ink Charcoal Portrait.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Ink Charcoal Portrait.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Charcoal, black & blue ink on paper</p>
@@ -678,11 +678,11 @@ year2023: {
         {
             id:'SketchPortrait',
             title:'Pencil Sketch Portrait',
-            image:'/assets/Artworks/Pencil Sketch.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pencil Sketch.jpg',
             description:'',
             detailedInfo: {
                 title:'Pencil Sketch Portrait of a Middle-Aged Man -- November, 2023',
-                image:'/assets/Artworks/Pencil Sketch.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pencil Sketch.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pencil on paper</p>
@@ -698,11 +698,11 @@ year2023: {
         {
             id:'LightPainting',
             title:'Light Up',
-            image:'/assets/Artworks/Light_Up.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Light_Up.jpg',
             description:'',
             detailedInfo: {
                 title:'Light Up -- November, 2023',
-                image:'/assets/Artworks/Light_Up.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Light_Up.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on canvas</p>
@@ -717,11 +717,11 @@ year2023: {
         {
             id:'StillLife',
             title:'Still Life Study',
-            image:'/assets/Artworks/Still Life Sketch.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Still Life Sketch.jpg',
             description:'',
             detailedInfo: {
                 title:'Still Life Pencil Study -- October, 2023',
-                image:'/assets/Artworks/Still Life Sketch.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Still Life Sketch.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pencil on paper</p>
@@ -737,11 +737,11 @@ year2023: {
         {
             id:'FlowerSketch',
             title:'Dark Value Contrast Still Life Study',
-            image:'/assets/Artworks/Flower Still Life Sketch.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Flower Still Life Sketch.jpg',
             description:'',
             detailedInfo: {
                 title:'Dark Value Contrast Still Life Study -- October, 2023',
-                image:'/assets/Artworks/Flower Still Life Sketch.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Flower Still Life Sketch.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pencil on paper</p>
@@ -757,16 +757,16 @@ year2023: {
         {
             id:'BirdBox',
             title:'Bird Box Time Machine',
-            image:'/assets/Artworks/Bird_Box_Closed.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Bird_Box_Closed.jpg',
             description:'',
             detailedInfo: {
                 title:'Bird Box Time Machine -- June, 2023',
                 images: [
-                    '/assets/Artworks/Bird_Box_Closed.jpg',
-                    '/assets/Artworks/Bird_Box_Open.jpg',
-                    '/assets/Artworks/Bird_Box_Back.jpg',
-                    '/assets/Artworks/Bird_Box_Inside.jpg',
-                    '/assets/Artworks/Bird_Box_ZoomedIn.jpg'
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Bird_Box_Closed.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Bird_Box_Open.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Bird_Box_Back.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Bird_Box_Inside.jpg',
+                    'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Bird_Box_ZoomedIn.jpg'
                 ],
                 content:`
                 <div class="project-info">
@@ -783,11 +783,11 @@ year2023: {
         {
             id:'NatureMixedMedia',
             title:'Recipricate',
-            image:'/assets/Artworks/Recipricate_Nature.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Recipricate_Nature.jpg',
             description:'',
             detailedInfo: {
                 title:'Recipricate -- May, 2023',
-                image:'/assets/Artworks/Recipricate_Nature.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Recipricate_Nature.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Mixed media</p>
@@ -803,11 +803,11 @@ year2023: {
         /*{
             id:'FromMePainting',
             title:'Sweet Bliss of Labor',
-            image:'/assets/Artworks/Sweet_Bliss.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Sweet_Bliss.jpg',
             description:'',
             detailedInfo: {
                 title:'Sweet Bliss of Labor -- May, 2023',
-                image:'/assets/Artworks/Sweet_Bliss.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Sweet_Bliss.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylic on canvas</p>
@@ -823,11 +823,11 @@ year2023: {
         {
             id:'RainyAlleySumiE',
             title:'Old Alley in the Rain',
-            image:'/assets/Artworks/Old_Ally_InThe_Rain.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Old_Ally_InThe_Rain.jpg',
             description:'',
             detailedInfo: {
                 title:'Old Alley in the Rain -- April, 2023',
-                image:'/assets/Artworks/Old_Ally_InThe_Rain.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Old_Ally_InThe_Rain.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Sumi-e ink on rice paper</p>
@@ -850,11 +850,11 @@ year2022: {
         {
             id:'DistantMirage',
             title:'Distant Mirage',
-            image:'/assets/Artworks/Distant_Mirage.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Distant_Mirage.jpg',
             description:'',
             detailedInfo: {
                 title:'Distant Mirage -- December, 2022',
-                image:'/assets/Artworks/Distant_Mirage.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Distant_Mirage.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Watercolor on paper</p>
@@ -870,11 +870,11 @@ year2022: {
         {
             id:'KoiFish',
             title:'Koi Fish in Pond',
-            image:'/assets/Artworks/Koi_Fish_SumiE.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Koi_Fish_SumiE.jpg',
             description:'',
             detailedInfo: {
                 title:'Koi Fish in Pond -- November, 2022',
-                image:'/assets/Artworks/Koi_Fish_SumiE.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Koi_Fish_SumiE.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Sumi-e ink on rice paper</p>
@@ -890,11 +890,11 @@ year2022: {
         {
             id:'PistachioCeramic',
             title:'Two Pistachios Trompe L\\\'oeil',
-            image:'/assets/Artworks/Pistachio_Ceramic.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pistachio_Ceramic.jpg',
             description:'',
             detailedInfo: {
                 title:'Two Pistachios Trompe L\\\'oeil -- November, 2022',
-                image:'/assets/Artworks/Pistachio_Ceramic.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Pistachio_Ceramic.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Ceramics</p>
@@ -910,11 +910,11 @@ year2022: {
         {
             id:'NaraCharcoal',
             title:'*Deer* Nara Island',
-            image:'/assets/Artworks/Nara_Island_Charcoal.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Nara_Island_Charcoal.jpg',
             description:'',
             detailedInfo: {
                 title:'*Deer* Nara Island -- October, 2022',
-                image:'/assets/Artworks/Nara_Island_Charcoal.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Nara_Island_Charcoal.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Charcoal on paper</p>
@@ -930,11 +930,11 @@ year2022: {
         {
             id:'KleinBottle',
             title:'Klein Bottle',
-            image:'/assets/Artworks/Klein_Bottle.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Klein_Bottle.jpg',
             description:'',
             detailedInfo: {
                 title:'Klein Bottle -- October, 2022',
-                image:'/assets/Artworks/Klein_Bottle.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Klein_Bottle.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Ceramics</p>
@@ -950,11 +950,11 @@ year2022: {
         {
             id:'TornInBetween',
             title:'Torn in Between',
-            image:'/assets/Artworks/Torn_in_Between.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Torn_in_Between.jpg',
             description:'',
             detailedInfo: {
                 title:'Torn in Between -- October, 2022',
-                image:'/assets/Artworks/Torn_in_Between.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Torn_in_Between.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pen & ink on paper</p>
@@ -970,11 +970,11 @@ year2022: {
         {
             id:'NYCGraffiti',
             title:'Art of the New York People',
-            image:'/assets/Artworks/NYC_Graffiti.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/NYC_Graffiti.jpg',
             description:'',
             detailedInfo: {
                 title:'Art of the New York People -- September, 2022',
-                image:'/assets/Artworks/NYC_Graffiti.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/NYC_Graffiti.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pen & ink on paper</p>
@@ -990,11 +990,11 @@ year2022: {
         {
             id:'MomentoMori',
             title:'Still Life Momento Mori',
-            image:'/assets/Artworks/Still_Life_Momento_Mori.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Still_Life_Momento_Mori.jpg',
             description:'',
             detailedInfo: {
                 title:'Still Life Momento Mori -- September, 2022',
-                image:'/assets/Artworks/Still_Life_Momento_Mori.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/Still_Life_Momento_Mori.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Acrylics on canvas</p>
@@ -1010,11 +1010,11 @@ year2022: {
         {
             id:'ToTheBeat',
             title:'To The Beat',
-            image:'/assets/Artworks/To_the_Beat.jpg',
+            image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/To_the_Beat.jpg',
             description:'',
             detailedInfo: {
                 title:'To The Beat -- August, 2022',
-                image:'/assets/Artworks/To_the_Beat.jpg',
+                image:'https://raw.githubusercontent.com/S0LsTicee/S0Lrius.github.io/assets/Artworks/To_the_Beat.jpg',
                 content:`
                 <div class="project-info">
                     <p><strong>Medium: </strong>Pen & ink on paper</p>
@@ -1245,6 +1245,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
 
 
 
