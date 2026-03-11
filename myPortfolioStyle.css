@@ -12,6 +12,10 @@ html, body {
     overflow-x: hidden;
 }
 
+title {
+    display: none;
+}
+
 body {
     background-color: #ffcd71;
 }
@@ -989,4 +993,5 @@ footer p {
         left: 33vw;
         right: 30vw;
     }
+
 }
